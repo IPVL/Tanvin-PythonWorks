@@ -12,6 +12,4 @@ class Constructor(object):
 
         print "the name is ", self.name
 
-
-
 obj = Constructor("ipv Cloud")

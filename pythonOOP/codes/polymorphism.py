@@ -12,7 +12,7 @@ class Polymorphism:
 	"""
 	print" ".join(args)
 
-# creating instance of a class, create an object obj of a class Ploymorphism
+# creating instance of a class, create an object obj of a class Polymorphism
 obj = Polymorphism()
 
 # passing parameter to a class
